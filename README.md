@@ -27,6 +27,8 @@
 <br />
 
 ### :trophy: Моя статистика:
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Comediant24/badges/large)](https://www.codewars.com/users/Comediant24)
+
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
